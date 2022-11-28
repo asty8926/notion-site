@@ -1,0 +1,8 @@
+/* Callout on homepage */
+[data-block-id="ad291502-df38-4856-94a1-b8b5d33b40d2"], div.notion-selectable.notion-callout-block {
+  width: auto !important;
+}
+
+[data-block-id="ad291502-df38-4856-94a1-b8b5d33b40d2"] > div > div, div.notion-selectable.notion-callout-block > div > div {
+ border-radius: 5px !important; 
+}
